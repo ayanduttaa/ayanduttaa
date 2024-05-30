@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ayanduttaa
+- 👋 Hi, I’m Ayan.
 
-- 🌱 I’m currently learning Information Technology from KiiT University
+- 🌱 B.Tech in IT from KiiT University.
 
 - 📫 How to reach me - insta- @ayanduttaa twitter- @ayanduttaa
 
