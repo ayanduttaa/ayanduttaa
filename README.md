@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3>Here are some of my projects, hope will like it !</h3>
 
-      
 | Project Title                                  | Live Link                                  |
 | --------------------------------------------- | --------------------------------------------- |
-| Full Stack Certificate Generator with PHP and MySQL | [Hosting Address](https://cerprogphp.000webhostapp.com/) |
-| Dictionary with API                            | [Hosting Address](https://ayanduttaa.github.io/myDict/) |
-| Responsive Piano                               | [Hosting Address](https://ayanduttaa.github.io/myPiano/) |
-| Gym Site Front End Project                    | [Hosting Address](https://ayanduttaa.github.io/gymSite/) |
+| Full Stack Certificate Generator with PHP and MySQL | <a href="https://cerprogphp.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Hosting Address</a> |
+| Dictionary with API                            | <a href="https://ayanduttaa.github.io/myDict/" target="_blank" rel="noopener noreferrer">Hosting Address</a> |
+| Responsive Piano                               | <a href="https://ayanduttaa.github.io/myPiano/" target="_blank" rel="noopener noreferrer">Hosting Address</a> |
+| Gym Site Front End Project                    | <a href="https://ayanduttaa.github.io/gymSite/" target="_blank" rel="noopener noreferrer">Hosting Address</a> |
+
 
       
   
