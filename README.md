@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ayan.
-- 
 - 🌱 B.Tech in IT from KiiT University.
-
 - 📫 How to reach me - insta- @ayanduttaa twitter- @ayanduttaa
 
 <!---
