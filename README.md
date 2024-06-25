@@ -9,9 +9,9 @@ ayanduttaa/ayanduttaa is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h3>Here are some of my projects, hope will like it !</h3>
-<table>
-        <thead>
-            <tr>
+
+      
+<tr>
                 <td>
                     Project Title
                 </td>
@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
                     Live Link
                 </td>
             </tr>
-        </thead>
+       
 
-        <tbody>
-            <tr>
+     
+<tr>
                 <td>
                     Full Stack Certificate Generator with PHP and MySQL
                 </td>
@@ -54,5 +54,5 @@ You can click the Preview link to take a look at your changes.
                     <a href="https://ayanduttaa.github.io/gymSite/">Hosting Address</a>
                 </td>
             </tr>
-        </tbody>
-    </table>
+      
+  
