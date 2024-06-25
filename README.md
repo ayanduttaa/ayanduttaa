@@ -11,42 +11,12 @@ You can click the Preview link to take a look at your changes.
 <h3>Here are some of my projects, hope will like it !</h3>
 
       
-<tr><td>Project Title</td>
-<td>Live Link</td></tr>
-       
+| Project Title                                  | Live Link                                  |
+| --------------------------------------------- | --------------------------------------------- |
+| Full Stack Certificate Generator with PHP and MySQL | [Hosting Address](https://cerprogphp.000webhostapp.com/) |
+| Dictionary with API                            | [Hosting Address](https://ayanduttaa.github.io/myDict/) |
+| Responsive Piano                               | [Hosting Address](https://ayanduttaa.github.io/myPiano/) |
+| Gym Site Front End Project                    | [Hosting Address](https://ayanduttaa.github.io/gymSite/) |
 
-     
-<tr>
-                <td>
-                    Full Stack Certificate Generator with PHP and MySQL
-                </td>
-                <td>
-                    <a href="https://cerprogphp.000webhostapp.com/">Hosting Address</a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Dictionary with API
-                </td>
-                <td>
-                    <a href="https://ayanduttaa.github.io/myDict/">Hosting Address</a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Responsive Piano
-                </td>
-                <td>
-                    <a href="https://ayanduttaa.github.io/myPiano/">Hosting Address</a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Gym Site Front End Project
-                </td>
-                <td>
-                    <a href="https://ayanduttaa.github.io/gymSite/">Hosting Address</a>
-                </td>
-            </tr>
       
   
