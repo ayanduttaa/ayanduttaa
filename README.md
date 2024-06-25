@@ -11,14 +11,8 @@ You can click the Preview link to take a look at your changes.
 <h3>Here are some of my projects, hope will like it !</h3>
 
       
-<tr>
-                <td>
-                    Project Title
-                </td>
-                <td>
-                    Live Link
-                </td>
-            </tr>
+<tr><td>Project Title</td>
+<td>Live Link</td></tr>
        
 
      
