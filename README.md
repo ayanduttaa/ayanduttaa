@@ -6,7 +6,7 @@
 ayanduttaa/ayanduttaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3>Here are some of my projects, hope will like it !</h3>
+<h3>Here are some of my projects 😃</h3>
 
 | Project Title                                  | Live Link                                  |
 | --------------------------------------------- | --------------------------------------------- |
